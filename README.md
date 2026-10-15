@@ -2,7 +2,7 @@
 
 용인 처인구 해곡동 와우정사 주변 식당 12곳과 카페 4곳을 정리한 한 장짜리 페이지입니다.
 
-- 페이지: https://junho85.github.io/wawoojeongsa-food/
+- 페이지: http://world.junho85.pe.kr/wawoojeongsa-food/
 - 조사일: 2026-10-15
 - 별점: 카카오맵, 구글 지도, 다이닝코드 (평가 수로 가중평균한 종합 별점 포함)
 - 가격: 카카오맵 메뉴판 + 최근 네이버 블로그 후기
